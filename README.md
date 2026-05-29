@@ -114,7 +114,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [CoPE — Covid19 Protocol Enforcer](https://github.com/Sahaj-Chakka/CoPE) | Real-time mask detection, facial recognition, temperature screening & social distancing enforcement on Raspberry Pi 4B | Python, OpenCV, YOLOv3, dlib, Raspberry Pi |
+| [CoPE — Covid19 Protocol Enforcer](https://github.com/Sahaj-Chakka/CoPE-Covid19-Protocol-Enforcer) | Real-time mask detection, facial recognition, temperature screening & social distancing enforcement on Raspberry Pi 4B | Python, OpenCV, YOLOv3, dlib, Raspberry Pi |
 | [Irrigation Control System](https://github.com/Sahaj-Chakka/Irrigation-Control-System) | Arduino-based smart irrigation controller with open/closed loop logic, deployed on real farmland | Arduino, C++, Sensors, Microcontrollers |
 
 ---
